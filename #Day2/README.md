@@ -7,4 +7,7 @@ Today i completed the second part of this first round of coding creating classes
 
 The final result was the expected and took me around of 1.5 hours get this done, this time i made something that i didn't realize i could did at the moment i was programming, and that was the entries validations directly in the constructor, and yes, i've could programmed a function with the validation and use it the times i needed, but for some reason, when i tried to shoot the function at the constructor it drop me an error, so i decided to repeat that validation certain times across the class methods due to without can do the validations in the constructor creating a separate function to recycle that piece of code was no longer making sense to me. So i did it this way.
 
+# ☕ What i've learned from this?
+More than learning something, i would say that i realize some things that i didn't in the first excercise, in the first excercise, i could not validate the entries that coming from the instantiating of the class, but here, i could, i see that as a little advance, but it's just a slow begin, and with the pass of the days i will increase the difficulty and try awesome things. This is just to let clear fundamentals in myself.
+
 **`Challenge accomplished the 1/11/2022`**
