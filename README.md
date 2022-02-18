@@ -1,3 +1,6 @@
+# ▶ PAUSED
+Why i put a pause to my challenge? Lately, i've been going trough certain mental and personal problems, these problems, blended with lacks of time, don't let me front this challenge (yeah, it sounds like i'm quite lazy), but i prefer to pause this a couple days or a week and get all my current problems far from my programmer carreer, i can't allow myself to being mediocre, and i'm completing this challenge as that, a mediocre developer, so, i'll be solving all my shit and finish a project what i'm working on, and, that way, practice and continue learning and bring myself new learn correctly, of course, i will be programming anyway, but, at this moment, i can't do it everyday. If i'm blessed, every other day. So, this will be my last update in a while, **see y'all soon nobody! :D** 
+
 # ⌨ My100DaysOfCode ☕
 **Hello, world!**
 I've decided to commit myself to complete the challenge of **#100DaysOfCode**, this means i'm gonna code at least 1 hour per day during 100 days, and i'm gonna approach this 3 months to masterize two key concepts in the programming world; [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm) and [Software Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern), and i'm gonna use this repository as a journal to track my progress and remain ordered across this whole challenge.
