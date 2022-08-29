@@ -1,5 +1,5 @@
-# ▶ PAUSED
-Why i put a pause to my challenge? Lately, i've been going trough certain mental and personal problems, these problems, blended with lacks of time, don't let me front this challenge (yeah, it sounds like i'm quite lazy), but i prefer to pause this a couple days or a week and get all my current problems far from my programmer carreer, i can't allow myself to being mediocre, and i'm completing this challenge as that, a mediocre developer, so, i'll be solving all my shit and finish a project what i'm working on, and, that way, practice and continue learning and bring myself new learn correctly, of course, i will be programming anyway, but, at this moment, i can't do it everyday. If i'm blessed, every other day. So, this will be my last update in a while, **see y'all soon nobody! :D** 
+# ▶ RESUMED
+After 6 long months with so many events in my life, a graduation, and so many mucho, i've decided to commit myself again to accomplish this challenge until the year ends, i will do it, **and this challenge is resumed since 29/8/2022**.
 
 # ⌨ My100DaysOfCode ☕
 **Hello, world!**
