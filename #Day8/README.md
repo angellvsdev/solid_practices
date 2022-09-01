@@ -8,3 +8,6 @@ of a father class got to be capable of replace his father, according to this con
 - If you override a method of the superclass in the subclass, this method shouldn’t strengthen pre-conditions of superclass’ method.
 - If you override a method of the superclass in the subclass, this method shouldn’t weaken post-conditions of the superclass’ method.
 - A subclass shouldn’t change the values of the private fields of the superclass.
+
+# 📋 What i've learned from this?
+I've learned how to apply the Liskov Substitution Principle in a begginer level, now with this i'm closer to apply the five principles in only one programm or application for this challenge.
