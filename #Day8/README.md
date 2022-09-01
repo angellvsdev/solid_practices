@@ -11,3 +11,5 @@ of a father class got to be capable of replace his father, according to this con
 
 # 📋 What i've learned from this?
 I've learned how to apply the Liskov Substitution Principle in a begginer level, now with this i'm closer to apply the five principles in only one programm or application for this challenge.
+
+`This challenge was accomplished at 8/31/2022`
